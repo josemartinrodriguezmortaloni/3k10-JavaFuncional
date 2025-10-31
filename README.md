@@ -2,8 +2,6 @@
 
 Trabajo realizado por **Jose Martin Rodriguez Mortaloni**
 
-🔗 [Repositorio GitHub](https://github.com/josemartinrodriguezmortaloni/3k10-JavaFuncional)
-
 ---
 
 ## 📋 Descripcion
